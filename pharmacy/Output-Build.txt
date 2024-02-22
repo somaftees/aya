@@ -1,0 +1,5 @@
+﻿Build started at 10:57 م...
+1>------ Build started: Project: pharmacy, Configuration: Debug Any CPU ------
+1>  pharmacy -> C:\Users\desktop center\Desktop\pharmacy\pharmacy\bin\Debug\pharmacy.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:57 م and took 05.936 seconds ==========
